@@ -3,6 +3,8 @@ Bridge workshop connecting IBM Watson IoT with mbed Cloud
 
 Updates: 
 
+- 04/26/2018: Update to v2.5 - Production IBM Bridge Release
+
 - 04/03/2018: Update to v2.4
 
 - 02/14/2018: Update to v2.3
