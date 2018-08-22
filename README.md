@@ -36,6 +36,6 @@ Mbed Cloud Portal account: https://portal.mbedcloud.com
 
 K64F Project: https://github.com/ARMmbed/mbed-cloud-sample/
 
-Bridge Runtime Source (Apache 2 licensed)
+Prototype Bridge Runtime Source (Apache 2 licensed)
 
-      https://github.com/ARMmbed/connector-bridge
+      https://github.com/ARMmbed/pelion-bridge
